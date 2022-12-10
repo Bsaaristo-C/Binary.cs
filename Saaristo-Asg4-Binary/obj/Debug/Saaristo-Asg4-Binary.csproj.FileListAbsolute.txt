@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\bin\Debug\Saaristo-Asg4-Binary.exe.config
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\bin\Debug\Saaristo-Asg4-Binary.exe
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\bin\Debug\Saaristo-Asg4-Binary.pdb
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\obj\Debug\Saaristo-Asg4-Binary.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\obj\Debug\Saaristo-Asg4-Binary.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\obj\Debug\Saaristo_Asg4_Binary.Form1.resources
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\obj\Debug\Saaristo_Asg4_Binary.Properties.Resources.resources
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\obj\Debug\Saaristo-Asg4-Binary.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\obj\Debug\Saaristo-Asg4-Binary.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\obj\Debug\Saaristo-Asg4-Binary.exe
+C:\Users\brian\source\repos\Saaristo-Asg4-Binary\Saaristo-Asg4-Binary\obj\Debug\Saaristo-Asg4-Binary.pdb
